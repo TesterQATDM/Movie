@@ -2,4 +2,5 @@
     <string name="app_name">Movie</string>
     <string name="connection_error">Can\'t connect to the server</string>
     <string name="internal_error">Internal error! Please try again later.</string>
+    <string name="retry">retry</string>
 </resources>
